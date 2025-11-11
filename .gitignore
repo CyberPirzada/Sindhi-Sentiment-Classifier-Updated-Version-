@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.env.*
+.venv/
+*.egg-info/
+
+# Data / models
+models/
+data/
+.cache/
+*.pkl
+*.pt
+*.bin
+*.safetensors
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
